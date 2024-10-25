@@ -1,0 +1,9 @@
+## Summary of Datasets
+
+| **Dataset Name**                                   | **Link**                                                                                              | **Description**                                                      | **Data Type**             |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------|
+| Montgomery County Alerts                            | [MontcoAlert](https://www.kaggle.com/datasets/mchirico/montcoalert)                               | Audio recordings of emergency alerts with labels                   | Audio files and labels     |
+| Allegheny County 911 Dispatches                    | [911 Dispatches](https://catalog.data.gov/dataset/allegheny-county-911-dispatches-ems-and-fire)   | 911 dispatch records for EMS and fire incidents                     | CSV files                 |
+| Disaster Emergency Medical Personnel System (DEMPS) | [DEMPS Dataset](https://catalog.data.gov/dataset/disaster-emergency-medical-personnel-system-demps) | EMS responses during disasters                                       | Structured records         |
+| Fire Incidents Dataset                             | [Fire Incidents](https://catalog.data.gov/dataset/fire-incidents-eb549)                            | Records of fire incidents reported                                   | CSV files                 |
+| Emergency Department Admissions (Iran)             | [ED Admissions](https://data.mendeley.com/datasets/vhzyyktrz5/1)                                   | Data on emergency department admissions at a teaching hospital       | Structured records         |
